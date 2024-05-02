@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pong/static/css/main.06da844a.css",
+    "main.js": "/pong/static/js/main.331be26a.js",
+    "index.html": "/pong/index.html",
+    "main.06da844a.css.map": "/pong/static/css/main.06da844a.css.map",
+    "main.331be26a.js.map": "/pong/static/js/main.331be26a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06da844a.css",
+    "static/js/main.331be26a.js"
+  ]
+}
