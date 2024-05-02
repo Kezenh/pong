@@ -1,0 +1,40 @@
+.field {
+    width: 80%;
+    aspect-ratio: 2 / 1;
+    border: solid white 0.1vw;;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    left: 49.9%;
+    background-color: white;
+    width: 0.2%;
+    height: 100%;
+}
+
+.firstLimit {
+    background-color: white;
+    position: absolute;
+    left: 45%;
+    width: 0.1%;
+    height: 100%;
+}
+
+.secondLimit {
+    background-color: white;
+    position: absolute;
+    right: 45%;
+    width: 0.1%;
+    height: 100%;
+}
+
+.player {
+    background-color: white;
+    width: 0.5%;
+    height: 10%;
+    position: absolute;
+}

@@ -1,0 +1,19 @@
+.controls {
+    width: 8%;
+    aspect-ratio: 1 / 1;
+    margin: auto;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.control {
+    color: white;
+    border: 1px white solid;
+    background-color: #252C32;
+}
+
+.white {
+    background-color: white;
+}
